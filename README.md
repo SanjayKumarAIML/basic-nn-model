@@ -105,6 +105,10 @@ x_t2=scaler.transform(x_test)
 
 ai.evaluate(x_t2,y_test)
 
+err = rmse()
+preds = ai.predict(x_test)
+err(y_test,preds)
+
 z=[[7]]
 
 z_1=scaler.transform(z)
