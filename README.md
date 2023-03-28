@@ -4,9 +4,6 @@
 
 To develop a neural network regression model for the given dataset.
 
-## THEORY
-
-Explain the problem statement
 
 ## Neural Network Model
 
