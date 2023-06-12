@@ -49,7 +49,7 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-```
+```py
 from google.colab import auth
 import gspread
 from google.auth import default
